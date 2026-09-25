@@ -16,7 +16,7 @@ I build visual, responsive and interactive web experiences by combining frontend
 </a> -->
 ---
 
-## 🧠 About me
+## ⭐ About me
 
 Hey there, I'm a **Creative Frontend Developer** focused on the intersection of **design and code**. I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished and interactive experience.
 
@@ -59,29 +59,11 @@ Three.js · WebGL · Blender · Generative Design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-### Exploring
+### Currently Exploring
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111)
 ![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-111111?style=flat-square)
-
----
-
-## 🚀 What I'm building
-
-I'm currently developing projects around:
-
-- 🎨 Creative website design
-- 💻 Responsive frontend development
-- 🧩 Figma → HTML/CSS/JavaScript
-- ✨ Interactive UI and motion
-- 🧊 3D web experiences
-- 🌀 Generative visuals
-- 🌐 Experimental creative websites
-
-I especially like visual directions such as **Y2K, retrofuturism, minimalism, gothic, cyber/tech aesthetics and experimental digital design**.
-
----
 
 ## 🎯 Current focus
 
