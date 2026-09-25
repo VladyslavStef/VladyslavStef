@@ -2,8 +2,25 @@
 # Hello there!👋 I'm Vlad 
 
 ### Creative Web Designer & Frontend Developer
-
 I build **visual, responsive and interactive web experiences** by combining frontend development with UI design, 3D and generative visuals.
+
+<h1 id="typing"></h1>
+
+const text = "Creative Frontend Developer";
+const element = document.getElementById("typing");
+
+let index = 0;
+
+function typeText() {
+  if (index < text.length) {
+    element.textContent += text[index];
+    index++;
+
+    setTimeout(typeText, 100);
+  }
+}
+
+typeText();
 
 <!-- <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -99,18 +116,6 @@ I especially like visual directions such as **Y2K, retrofuturism, minimalism, go
 → WebGL / Shaders
 → Generative Web
 ```
----
-
-## 📈 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
 ---
 
 ## 🤝 Let's connect
