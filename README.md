@@ -15,11 +15,9 @@ I build **visual, responsive and interactive web experiences** by combining fron
 
 ## 🧠 About me
 
-I'm a **Creative Frontend Developer** focused on the intersection of **design and code**.
+Hey there, I'm a **Creative Frontend Developer** focused on the intersection of **design and code**. I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished and interactive experience.
 
-I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished, responsive and interactive experience.
-
-My long-term direction is **Creative Development** — combining frontend development with motion, 3D, generative design and experimental web experiences.
+My long-term direction is **Creative Development**. I enjoy combining frontend development with design or 3D generative design and experimental web experiences. My goal is to move from building conventional interfaces to creating **distinctive digital experiences where design, code, motion and 3D work together**.
 
 ```text
 DESIGN
@@ -78,7 +76,7 @@ I'm currently developing projects around:
 - 🌀 Generative visuals
 - 🌐 Experimental creative websites
 
-I especially like visual directions such as **Y2K, retrofuturism, gothic, cyber/tech aesthetics and experimental digital design**.
+I especially like visual directions such as **Y2K, retrofuturism, minimalism, gothic, cyber/tech aesthetics and experimental digital design**.
 
 ---
 ---
@@ -101,9 +99,6 @@ I especially like visual directions such as **Y2K, retrofuturism, gothic, cyber/
 → WebGL / Shaders
 → Generative Web
 ```
-
-My goal is to move from building conventional interfaces to creating **distinctive digital experiences where design, code, motion and 3D work together**.
-
 ---
 
 ## 📈 GitHub
