@@ -82,7 +82,6 @@ I'm currently developing projects around:
 I especially like visual directions such as **Y2K, retrofuturism, minimalism, gothic, cyber/tech aesthetics and experimental digital design**.
 
 ---
----
 
 ## 🎯 Current focus
 
@@ -103,15 +102,3 @@ I especially like visual directions such as **Y2K, retrofuturism, minimalism, go
 → Generative Web
 ```
 ---
-
-## 🤝 Let's connect
-
-I'm open to **creative web projects, frontend work, UI design and collaborations**.
-
-If you're building something visual and want to turn an idea into an interactive web experience, feel free to reach out.
-
-<div align="center">
-
-**Design → Code → Interaction → Experience**
-
-</div>
