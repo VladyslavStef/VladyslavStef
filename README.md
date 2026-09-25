@@ -4,19 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;BOO!!!+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="./assets/VideoProject2-ezgif.com-video-to-gif-converter.gif" width="100%">
-</p>
+
 <div align="center">Responsive and interactive web experiences with UI design, 3D and generative visuals.</div>
 
-
-
-<!-- <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a> -->
 ---
 
 ## ⭐ About me
@@ -42,6 +32,9 @@ CREATIVE DEVELOPMENT
   ↓
 Three.js · WebGL · Blender · Generative Design
 ```
+<p align="center">
+  <img src="./assets/VideoProject2-ezgif.com-video-to-gif-converter.gif" width="100% alt="Animated background"">
+</p>
 
 ---
 
