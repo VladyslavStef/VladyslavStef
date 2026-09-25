@@ -1,6 +1,5 @@
-<div align="center">
 
-# Hi, I'm Vlad 👋
+# Hello there!👋 I'm Vlad 
 
 ### Creative Web Designer & Frontend Developer
 
@@ -12,9 +11,6 @@ I build **visual, responsive and interactive web experiences** by combining fron
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a> -->
-
-</div>
-
 ---
 
 ## 🧠 About me
