@@ -85,29 +85,6 @@ I'm currently developing projects around:
 I especially like visual directions such as **Y2K, retrofuturism, gothic, cyber/tech aesthetics and experimental digital design**.
 
 ---
-
-## 📌 Featured project
-
-### 🌿 Wonder of Lavender
-
-A real-world e-commerce and experience website for a family lavender business in the Carpathians.
-
-**Built with:**
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `PostgreSQL`
-
-**Includes:**
-- Multi-page frontend
-- Product catalogue
-- Category navigation
-- Booking flow
-- Product management
-- Backend API
-- Database integration
-- Responsive design
-- Custom visual identity
-
-> A project where I combine **design, frontend development and backend functionality** into one complete experience.
-
 ---
 
 ## 🎯 Current focus
