@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;Design+%2B+Code+%2B+3D" alt="Typing SVG" />
 </p>
-I build visual, responsive and interactive web experiences by combining frontend development with UI design, 3D and generative visuals.
+<div align="center">Responsive and interactive web experiences with UI design, 3D and generative visuals.</div>
 
 
 
