@@ -6,12 +6,12 @@
 
 I build **visual, responsive and interactive web experiences** by combining frontend development with UI design, 3D and generative visuals.
 
-<a href="https://github.com/">
+<!-- <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+</a> -->
 
 </div>
 
