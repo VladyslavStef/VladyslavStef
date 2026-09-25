@@ -1,26 +1,12 @@
 
 # Hello there!👋 I'm Vlad 
 
-### Creative Web Designer & Frontend Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;Design+%2B+Code+%2B+3D" alt="Typing SVG" />
+</p>
 I build **visual, responsive and interactive web experiences** by combining frontend development with UI design, 3D and generative visuals.
 
-<h1 id="typing"></h1>
 
-const text = "Creative Frontend Developer";
-const element = document.getElementById("typing");
-
-let index = 0;
-
-function typeText() {
-  if (index < text.length) {
-    element.textContent += text[index];
-    index++;
-
-    setTimeout(typeText, 100);
-  }
-}
-
-typeText();
 
 <!-- <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
