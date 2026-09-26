@@ -2,7 +2,7 @@
 # Hello there!👋 I'm Vlad 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;BOO!!!+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B6FF00&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;BOO!!!+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 <div align="center">Responsive and interactive web experiences with UI design, 3D and generative visuals.</div>
