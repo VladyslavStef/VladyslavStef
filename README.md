@@ -5,30 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B6FF00&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Creative+Web+Designer;BOO!!!+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
-<div align="center">Responsive and interactive web experiences with UI design, 3D and generative visuals.</div>
+<div align="center">EMBRACE BOREDOM</div>
 
 ## ⭐ About me
-Hey there, I'm a **Creative Frontend Developer** focused on the intersection of **design and code**. I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished and interactive experience.
+Hey there, I'm a **Frontend Developer** focused on the intersection of **design and code**. I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished and interactive experience. My pasion is to make responsive and interactive web experiences with UI design, 3D and generative visuals.
 
 My long-term direction is **Creative Web Development**. I enjoy combining frontend development with design or 3D generative design and experimental web experiences. My goal is to move from building conventional interfaces to creating **distinctive digital experiences with design, code, motion and 3D working together**.
 
-```text
-DESIGN
-  ↓
-Figma · Photoshop · Illustrator · Visual concepts
-  ↓
-FRONTEND
-  ↓
-HTML · CSS · JavaScript · Responsive UI
-  ↓
-INTERACTION
-  ↓
-GSAP · Motion · Creative interactions
-  ↓
-CREATIVE DEVELOPMENT
-  ↓
-Three.js · WebGL · Blender · Generative Design
-```
 <p align="center">
   <img src="./assets/VideoProject2-ezgif.com-video-to-gif-converter.gif" width="100% alt="Animated background"">
 </p>
@@ -69,6 +52,7 @@ Three.js · WebGL · Blender · Generative Design
 ✓ Node.js / Express
 ✓ PostgreSQL
 
+→ TypeScript
 → GSAP
 → React
 → Three.js
@@ -76,4 +60,3 @@ Three.js · WebGL · Blender · Generative Design
 → WebGL / Shaders
 → Generative Web
 ```
----
