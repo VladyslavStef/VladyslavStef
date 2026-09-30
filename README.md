@@ -10,7 +10,6 @@
 ---
 
 ## ⭐ About me
-
 Hey there, I'm a **Creative Frontend Developer** focused on the intersection of **design and code**. I enjoy taking an idea from a visual concept or Figma layout and turning it into a polished and interactive experience.
 
 My long-term direction is **Creative Development**. I enjoy combining frontend development with design or 3D generative design and experimental web experiences. My goal is to move from building conventional interfaces to creating **distinctive digital experiences with design, code, motion and 3D working together**.
